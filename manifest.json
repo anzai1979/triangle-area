@@ -1,0 +1,10 @@
+{
+  "name": "三角形 面積計算",
+  "short_name": "三角形面積",
+  "description": "2辺と夾角から三角形の面積を計算します",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f8fa",
+  "theme_color": "#2563eb"
+}
